@@ -1,0 +1,9 @@
+c:\users\cp\documents\visual studio 2017\Projects\SimpleAntiVirus\SimpleAntiVirus\bin\Debug\SimpleAntiVirus.exe.config
+c:\users\cp\documents\visual studio 2017\Projects\SimpleAntiVirus\SimpleAntiVirus\bin\Debug\SimpleAntiVirus.exe
+c:\users\cp\documents\visual studio 2017\Projects\SimpleAntiVirus\SimpleAntiVirus\bin\Debug\SimpleAntiVirus.pdb
+c:\users\cp\documents\visual studio 2017\Projects\SimpleAntiVirus\SimpleAntiVirus\obj\Debug\SimpleAntiVirus.csprojResolveAssemblyReference.cache
+c:\users\cp\documents\visual studio 2017\Projects\SimpleAntiVirus\SimpleAntiVirus\obj\Debug\SimpleAntiVirus.Form1.resources
+c:\users\cp\documents\visual studio 2017\Projects\SimpleAntiVirus\SimpleAntiVirus\obj\Debug\SimpleAntiVirus.Properties.Resources.resources
+c:\users\cp\documents\visual studio 2017\Projects\SimpleAntiVirus\SimpleAntiVirus\obj\Debug\SimpleAntiVirus.csproj.GenerateResource.Cache
+c:\users\cp\documents\visual studio 2017\Projects\SimpleAntiVirus\SimpleAntiVirus\obj\Debug\SimpleAntiVirus.exe
+c:\users\cp\documents\visual studio 2017\Projects\SimpleAntiVirus\SimpleAntiVirus\obj\Debug\SimpleAntiVirus.pdb
